@@ -1,4 +1,4 @@
-/* METE-4100U Mechatronics Design
+/* 
    SARbot Phase A
 */
 #include <Adafruit_VL53L0X.h>
